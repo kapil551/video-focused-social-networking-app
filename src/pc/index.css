@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+
+    .pc-root {
+        @apply bg-blue-200 text-center text-xl;
+    }
+}

@@ -1,12 +1,7 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-
+import PCLayout from './pc/index';
 function App() {
   return (
-    <div className="bg-blue-200 text-center">
-      Video Focused Social Networking Application
-    </div>
+    <PCLayout />
   );
 }
 
