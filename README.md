@@ -9,6 +9,13 @@ Disclaimer has also been added to the website
 
 ## Tools and Technologies
 
+- React.js
+- React Redux
+- JavaScript
+- TypeScript
+- Tailwind CSS
+- Redux Toolkit
+
 ## Features
 
 ## Screenshots
